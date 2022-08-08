@@ -1,7 +1,7 @@
 # Konichiwa 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="300" width="500" alt="GIF" align="center" src="https://media.giphy.com/media/naiatn5LxTOsU/giphy.gif">
 </div>
 
 </br>
@@ -36,7 +36,7 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif">
 
 If you want to contact me, for any request do not hesitate 😉.
 
@@ -57,20 +57,4 @@ If you want to contact me, for any request do not hesitate 😉.
  </p>
  
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 
-
-
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
-
-*************
